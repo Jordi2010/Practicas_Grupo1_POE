@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica3", "practica3\practica3.csproj", "{CD7EA596-D23B-4DF3-9FFC-C7E03C9D4C27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{BE635D78-BB32-4D41-BE8B-890058A3C3D5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\img1.jpg = ..\..\..\Downloads\img1.jpg
+		..\..\..\Downloads\img2.jpg = ..\..\..\Downloads\img2.jpg
+		..\..\..\Downloads\matrixPOE.jpg = ..\..\..\Downloads\matrixPOE.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7EA596-D23B-4DF3-9FFC-C7E03C9D4C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7EA596-D23B-4DF3-9FFC-C7E03C9D4C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7EA596-D23B-4DF3-9FFC-C7E03C9D4C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7EA596-D23B-4DF3-9FFC-C7E03C9D4C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F008882-2293-46C4-B75B-38C31EC4177B}
+	EndGlobalSection
+EndGlobal
