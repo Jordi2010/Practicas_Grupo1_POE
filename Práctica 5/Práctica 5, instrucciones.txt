@@ -1,0 +1,9 @@
+Práctica 5.
+Asignatura: programación orientada a eventos (práctica - grupo 1).
+Estudiante: Jordi Haziel Amaya Martínez.
+
+
+1-Descargar o clonar carpeta Práctica 5.
+2-Abrir la carpeta Práctica 5.
+3-Abrir la carpeta EjercicioDateTime_Demo.
+4-Abrir la solución (el archivo.sln) dándole clic o darle clic derecho y abrir con visual studio.

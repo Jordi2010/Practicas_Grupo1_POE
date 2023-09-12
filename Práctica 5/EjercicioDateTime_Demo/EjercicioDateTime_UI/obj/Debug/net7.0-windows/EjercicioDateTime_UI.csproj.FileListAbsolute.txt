@@ -1,0 +1,16 @@
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\bin\Debug\net7.0-windows\EjercicioDateTime_UI.exe
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\bin\Debug\net7.0-windows\EjercicioDateTime_UI.deps.json
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\bin\Debug\net7.0-windows\EjercicioDateTime_UI.runtimeconfig.json
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\bin\Debug\net7.0-windows\EjercicioDateTime_UI.dll
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\bin\Debug\net7.0-windows\EjercicioDateTime_UI.pdb
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\EjercicioDateTime_UI.Form1.resources
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\EjercicioDateTime_UI.csproj.GenerateResource.cache
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\EjercicioDateTime_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\EjercicioDateTime_UI.AssemblyInfoInputs.cache
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\EjercicioDateTime_UI.AssemblyInfo.cs
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\EjercicioDateTime_UI.csproj.CoreCompileInputs.cache
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\EjercicioDateTime_UI.dll
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\refint\EjercicioDateTime_UI.dll
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\EjercicioDateTime_UI.pdb
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\EjercicioDateTime_UI.genruntimeconfig.cache
+C:\Users\jordi\source\repos\EjercicioDateTime_Demo\EjercicioDateTime_UI\obj\Debug\net7.0-windows\ref\EjercicioDateTime_UI.dll
