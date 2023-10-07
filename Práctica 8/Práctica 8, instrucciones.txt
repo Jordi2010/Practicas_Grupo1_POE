@@ -1,0 +1,12 @@
+Práctica 8.
+Asignatura: programación orientada a eventos (práctica - grupo 1).
+Estudiante: Jordi Haziel Amaya Martínez.
+
+
+1-Descargar o clonar carpeta Práctica 8.
+2-Abrir la carpeta Práctica 8.
+3-Abrir la carpeta practica8_Demo.
+4-Abrir la solución (el archivo.sln) dándole clic o darle clic derecho y abrir con visual studio.
+5-Ejecutar el archivo Práctica_8_POE_Grupo1 (el archivo .sql) en Management Studio de SQL Server Management Studio.
+6-Conectar Visual Studio a la base de datos.
+7-Ejecutar el código de la solución (archivo.sln).
