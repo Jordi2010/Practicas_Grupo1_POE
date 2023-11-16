@@ -1,0 +1,67 @@
+C:\Users\jordi\source\repos\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.exe
+C:\Users\jordi\source\repos\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.deps.json
+C:\Users\jordi\source\repos\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.runtimeconfig.json
+C:\Users\jordi\source\repos\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.dll
+C:\Users\jordi\source\repos\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.pdb
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\LoginC_.Form1.resources
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\LoginC_.Properties.Resources.resources
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.csproj.GenerateResource.cache
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.AssemblyInfoInputs.cache
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.AssemblyInfo.cs
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.csproj.CoreCompileInputs.cache
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.dll
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\refint\LoginC#.dll
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.pdb
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.genruntimeconfig.cache
+C:\Users\jordi\source\repos\Login\LoginC#\obj\Debug\net7.0-windows\ref\LoginC#.dll
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.exe
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.deps.json
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.runtimeconfig.json
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.dll
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.pdb
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC_.Form1.resources
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC_.Properties.Resources.resources
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.csproj.GenerateResource.cache
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.AssemblyInfoInputs.cache
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.AssemblyInfo.cs
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.csproj.CoreCompileInputs.cache
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.dll
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\refint\LoginC#.dll
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.pdb
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.genruntimeconfig.cache
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\ref\LoginC#.dll
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\bin\Debug\net7.0-windows\MailKit.dll
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\bin\Debug\net7.0-windows\MimeKit.dll
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.csproj.AssemblyReference.cache
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC_.VistaLogin2.resources
+C:\Users\jordi\OneDrive\Escritorio\Práctica 13, POE\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.csproj.CopyComplete
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.exe
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.deps.json
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.runtimeconfig.json
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.dll
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\bin\Debug\net7.0-windows\LoginC#.pdb
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\bin\Debug\net7.0-windows\MailKit.dll
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\bin\Debug\net7.0-windows\MimeKit.dll
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.csproj.AssemblyReference.cache
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC_.Form1.resources
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC_.Properties.Resources.resources
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC_.VistaLogin2.resources
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.csproj.GenerateResource.cache
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.AssemblyInfoInputs.cache
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.AssemblyInfo.cs
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.csproj.CoreCompileInputs.cache
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.csproj.CopyComplete
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.dll
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\refint\LoginC#.dll
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.pdb
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\LoginC#.genruntimeconfig.cache
+C:\Users\jordi\OneDrive\Escritorio\TAREAS UNIVO\CICLO 6 TAREAS (ACTUAL)\PROG. ORIENTADA A OBJETOS II\PRÁCTICA\Práctica 13\Login\LoginC#\obj\Debug\net7.0-windows\ref\LoginC#.dll

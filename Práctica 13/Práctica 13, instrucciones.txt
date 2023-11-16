@@ -1,0 +1,10 @@
+Práctica 13.
+Asignatura: programación orientada a eventos (práctica - grupo 1).
+Estudiante: Jordi Haziel Amaya Martínez.
+
+
+1-Descargar o clonar carpeta Práctica 13.
+2-Abrir la carpeta Práctica 13.
+3-Abrir la carpeta Login.
+4-Abrir la solución (el archivo.sln) dándole clic o darle clic derecho y abrir con visual studio.
+5-Ejecutar el código de la solución (archivo.sln).
